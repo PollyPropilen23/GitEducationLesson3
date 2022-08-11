@@ -29,3 +29,5 @@
 [Part1](https://habr.com/ru/post/541258/)
 
 [Part2](https://habr.com/ru/post/542616/)
+
+## Работа с ветками
