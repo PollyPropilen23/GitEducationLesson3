@@ -51,3 +51,9 @@ branch2
 
 
 5. Команда **git merge _BranchName_** позволяет добавить содержимое ветки _BranchName_ в ту ветку, на которой мы на данный момент находимся.
+### Виды слияния 
+* Fast-formard
+
+* ort-strategy
+
+* conflict
